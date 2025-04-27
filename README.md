@@ -1,11 +1,10 @@
 # ChromaVer
 
 - Bright colors are more fun and uplifting than cold hard digits
-- No time wasted arguing the boundary of "major" and "minor" changes
+- No time wasted arguing the boundary of "Major" and "Minor" changes
 - Versions are correctly ordered by any unicode-aware string sort
-- [Lehmer Code](https://en.wikipedia.org/wiki/Lehmer_code) and [factorial number system](https://en.wikipedia.org/wiki/Factorial_number_system) are used to encode numbers
+- [Lehmer Code](https://en.wikipedia.org/wiki/Lehmer_code) and [Factorial Number System](https://en.wikipedia.org/wiki/Factorial_number_system) are used to encode numbers
 - Symbols are introduced gradually as versions increase, for easy learning
-
 
 ### Symbols
 
